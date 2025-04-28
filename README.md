@@ -74,7 +74,7 @@ Administração de usuários e permissões:
 Cada microserviço é independente. Para rodar localmente:
 
 ```bash
-cd ms-ms-Innovativeprojects
+cd ms-Innovativeprojects
 ./mvnw spring-boot:run
 ```
 
